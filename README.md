@@ -3,12 +3,12 @@
   where admin can add different category and different food,where those food and category, price, discription can be visisble to  frontend user.
   
 ##To run the frontEnd part:-
-  1.Open xampp server And start Apache and mySQL
-  2.Open browser and run :- localhost/food-order/
+      1.Open xampp server And start Apache and mySQL
+      2.Open browser and run :- localhost/food-order/
   
 ##To handle the backend to add different fields run:-
-  1.Open newTab and run :- localhost/food-order/admin/login.php
-  2.provide username :- admin And password:- admin 
+    1.Open newTab and run :- localhost/food-order/admin/login.php
+    2.provide username :- admin And password:- admin 
   
 ## Their you can see different fields like:-
     HOME     (where the dashboard is present which some information)
@@ -18,6 +18,7 @@
     ORDER    (where you can see the orders done by the customer and update those orders)
     LOGOUT   (You can logout from the page)
   
-## To see the DATABASE run on Browser :-1. localhost/phpmyadmin/  
-                                        2. Then open :-  food-order
-                                        3. their you can see different table like for admin,category,food,order
+## To see the DATABASE run on Browser :-
+          1. localhost/phpmyadmin/  
+          2. Then open :-  food-order
+          3. their you can see different table like for admin,category,food,order
