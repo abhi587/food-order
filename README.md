@@ -1,6 +1,5 @@
 # food-order
-# In this project user is able to order food and which have different category of foods and menu,also Admin have different page where backend part can be handled,
-  where admin can add different category and different food,where those food and category, price, discription can be visisble to  frontend user.
+ In this project user is able to order food and which have different category of foods and menu,also Admin have different page where backend part can be handled,where admin can add different category and different food,where those food and category, price, discription can be visisble to  frontend user.
   
 ## To run the frontEnd part:-
       1.Open xampp server And start Apache and mySQL
