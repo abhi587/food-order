@@ -2,11 +2,11 @@
 # In this project user is able to order food and which have different category of foods and menu,also Admin have different page where backend part can be handled,
   where admin can add different category and different food,where those food and category, price, discription can be visisble to  frontend user.
   
-##To run the frontEnd part:-
+## To run the frontEnd part:-
       1.Open xampp server And start Apache and mySQL
       2.Open browser and run :- localhost/food-order/
   
-##To handle the backend to add different fields run:-
+## To handle the backend to add different fields run:-
     1.Open newTab and run :- localhost/food-order/admin/login.php
     2.provide username :- admin And password:- admin 
   
